@@ -1,0 +1,21 @@
+﻿  RayTracer.cpp
+B:\Coding\COSC363\COSC363_Assignment_2_swi126\SceneObject.h(26,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+B:\Coding\COSC363\COSC363_Assignment_2_swi126\SceneObject.h(27,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+B:\Coding\COSC363\COSC363_Assignment_2_swi126\SceneObject.h(28,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+B:\Coding\COSC363\COSC363_Assignment_2_swi126\RayTracer.cpp(33,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+B:\Coding\COSC363\COSC363_Assignment_2_swi126\RayTracer.cpp(47,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+B:\Coding\COSC363\COSC363_Assignment_2_swi126\RayTracer.cpp(103,10): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+B:\Coding\COSC363\COSC363_Assignment_2_swi126\RayTracer.cpp(104,10): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+B:\Coding\COSC363\COSC363_Assignment_2_swi126\RayTracer.cpp(338,36): warning C4305: 'argument': truncation from 'double' to 'float'
+B:\Coding\COSC363\COSC363_Assignment_2_swi126\RayTracer.cpp(356,37): warning C4305: 'argument': truncation from 'double' to 'float'
+B:\Coding\COSC363\COSC363_Assignment_2_swi126\RayTracer.cpp(377,46): warning C4305: 'argument': truncation from 'double' to 'float'
+B:\Coding\COSC363\COSC363_Assignment_2_swi126\RayTracer.cpp(382,47): warning C4305: 'argument': truncation from 'double' to 'float'
+  COSC363_Assignment_2_swi126.vcxproj -> B:\Coding\COSC363\COSC363_Assignment_2_swi126\Debug\COSC363_Assignment_2_swi126.exe
